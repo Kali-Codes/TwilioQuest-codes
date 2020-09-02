@@ -1,7 +1,7 @@
 # TwilioQuest-codes
 ## CODES for the interactive &amp; self-paced game
 
-### Disclaimer - My solutions are provided for purely educational purposes only. Your use of any of these sample documents is at your own risk.
+### Disclaimer - My solutions are purely for educational purposes only. Your use of any of these sample documents is at your own risk.
 
 
 
